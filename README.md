@@ -8,33 +8,33 @@ Features
 
 1.	Excel-Based Input:
 
-•	Users provide employee details in a structured Excel file format.
+    •	Users provide employee details in a structured Excel file format.
 
-•	The tool reads this data and processes it automatically.
+    •	The tool reads this data and processes it automatically.
 
 2.	GUI Display and Additional Input:
 
-•	Data from the Excel file is displayed in the application's GUI.
+    •	Data from the Excel file is displayed in the application's GUI.
 
-•	Users can input additional details such as payable days and food allowance days before generating invoices.
+    •	Users can input additional details such as payable days and food allowance days before generating invoices.
 
 3.	Invoice Generation:
 
-•	Creates output Excel files for each employee, containing detailed and accurate invoices.
+    •	Creates output Excel files for each employee, containing detailed and accurate invoices.
 
-•	Automatically updates the database with the latest invoice numbers, ensuring sequential numbering for the next cycle.
+    •	Automatically updates the database with the latest invoice numbers, ensuring sequential numbering for the next cycle.
 
 4.	Email Functionality:
 
-•	Sends invoices to employees directly via email.
+    •	Sends invoices to employees directly via email.
 
-•	HR and managers are automatically CC'd for transparency and tracking.
+    •	HR and managers are automatically CC'd for transparency and tracking.
 
 5.	Automation and Accuracy:
 
-•	Minimizes manual effort by automating the entire process.
+    •	Minimizes manual effort by automating the entire process.
 
-•	Eliminates errors in invoice numbers and ensures consistent tracking.
+    •	Eliminates errors in invoice numbers and ensures consistent tracking.
 ________________________________________
 Requirements
 
